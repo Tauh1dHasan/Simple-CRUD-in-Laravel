@@ -1,0 +1,4 @@
+This project is created following Traversy Media 10 Project in Laravel.
+This project have Laravel 8 Routes, Models with Eloquent, Controller handeling, Creating Message, Updating Message, Editing, Deleting (CRUD Functionalities).
+Also User authentigation with Admin Dashboard, image upload, User Dashboard, Manager Dashboard
+This whole Project will work as my Own refference.....
